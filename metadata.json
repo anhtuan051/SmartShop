@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop - Cửa Hàng Công Nghệ Trực Tuyến",
+  "description": "Nền tảng mua sắm thiết bị công nghệ trực tuyến SmartShop với điện thoại, laptop, tai nghe và trợ lý mua sắm AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
